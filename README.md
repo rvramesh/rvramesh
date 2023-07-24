@@ -6,7 +6,7 @@ Driving Innovation | Leading Change
 💻 Building innovative applications & impacting software solutions drive my commitment to lifelong learning. 
 🌟 Check out below links for a glimpse into my open source journey!
 
-## 🌐My Open source contributions 👨‍💻
+## 🌐My Open source contributions
 
 1. Contributed percentage arithmetic in [mathjs](https://github.com/josdejong/mathjs/pull/2304)
 2. Contributed to enabling percentage arithmetic in [ueli](https://github.com/oliverschwendener/ueli/pull/816)
