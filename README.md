@@ -13,7 +13,3 @@
 4. Fixed Wrong first day of week for Australian Locale in [React Spectrum](https://github.com/adobe/react-spectrum/pull/4598)
 5. Added debian bullseye support to [faasd](https://github.com/openfaas/faasd/pull/237)
 6. Simple [open graph image handler](https://github.com/rvramesh/og-image-handler) in go which can be hosted in faasd
-
-## 📱Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rvramesh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30594) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rvramesh) 
