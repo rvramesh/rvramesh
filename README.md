@@ -1,5 +1,4 @@
 # Ramesh Vijayaraghavan 👋
-Driving Innovation | Leading Change
 
 👨‍💻 I am Passionate about technology & software development! 
 🚀 My GitHub profile reflects my expertise in programming languages, frameworks, & tools, with a focus on open-source contributions & personal projects. 
