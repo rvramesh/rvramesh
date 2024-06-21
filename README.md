@@ -1,9 +1,12 @@
 # Ramesh Vijayaraghavan 👋
 
-👨‍💻 I am Passionate about technology & software development! 
-🚀 My GitHub profile reflects my expertise in programming languages, frameworks, & tools, with a focus on open-source contributions & personal projects. 
-💻 Building innovative applications & impacting software solutions drive my commitment to lifelong learning. 
-🌟 Check out below links for a glimpse into my open source journey!
+👨‍💻 I am passionate about technology and software development! 
+
+🚀 My GitHub profile reflects my expertise in programming languages, frameworks, and tools, with a focus on open-source contributions and personal projects. 
+
+💻 Building innovative applications and contributing to impactful software solutions motivate me to engage in lifelong learning. 
+
+🌟 Check out the links below for a glimpse into my open-source journey!
 
 ## 🌐My Open source contributions
 
